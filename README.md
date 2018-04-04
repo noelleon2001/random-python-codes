@@ -1,13 +1,14 @@
 # Portfolio
 My Progress Log Portfolio  
 <br/>
+<br/>
 
 ## 2016
 
 ---
 #### Python 
-(Structures + modules)
----
+(Structures + modules)  
+<br/>
 <br/>
 
 ## 2017
@@ -18,7 +19,7 @@ My Progress Log Portfolio
 #### MCC competion  
 ---
 <br/>
-
+<br/>
 
 ## 2018
 
