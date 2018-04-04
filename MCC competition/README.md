@@ -1,5 +1,5 @@
-# 2017 MCC competiton and 2018 January MCO competition 
+# 2017 MCC competiton and 2018 January USACO competition 
 **MCC - Malaysia Computing Competition**  
-**MCO - Malaysia Computing Olympiad**  
+**USACO - USA Computing Olympiad**  
 Codes for both competition,  
 Achieved bronze level for both.
