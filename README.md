@@ -1,21 +1,23 @@
 # Portfolio
 My Progress Log Portfolio  
   
-### 2016
+## 2016
 ---
 
--#### Python  
-  (Structures + modules)  
+#### Python  
+(Structures + modules)  
+---
   
-### 2017
+## 2017
 ---
 
 #### Python  
 (object oriented + functional programming)  
 
 #### MCC competion  
+---
 
-### 2018
+## 2018
 ---
 
 #### USACO  
@@ -23,4 +25,5 @@ My Progress Log Portfolio
 #### HTML5 + CSS
 _Progress in other repositories - html.github.io_  
 
-#### Joined Sunway Tech Club
+#### Joined Sunway Tech Club  
+---
