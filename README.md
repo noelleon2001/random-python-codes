@@ -7,7 +7,9 @@ My Progress Log Portfolio
 
 ---
 #### Python 
-(Structures + modules)  
+(Structures + modules)
+####
+---
 <br/>
 <br/>
 
