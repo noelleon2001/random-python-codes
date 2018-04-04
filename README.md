@@ -4,8 +4,8 @@ My Progress Log Portfolio
 ### 2016
 ---
 
-#### Python  
-(Structures + modules)  
+-#### Python  
+  (Structures + modules)  
   
 ### 2017
 ---
