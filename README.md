@@ -1,5 +1,4 @@
-# Portfolio
-My Progress Log Portfolio  
+# Just A Bunch of Code
 <br/>
 <br/>
 
@@ -28,6 +27,3 @@ My Progress Log Portfolio
 ---
 #### USACO  
 #### HTML5 + CSS 
-_Progress in other repositories - html.github.io_  
-#### Joined Sunway Tech Club  
----
